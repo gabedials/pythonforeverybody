@@ -1,4 +1,4 @@
-getting sstarted with raspberry pi
+getting sstarted with raspberry pi </br>
 Goals </br> complete getting started with raspberry pi 
 Boundaries / Scope </br> complete getting started with raspberry pi and complete challenged with raspberry pi</br>
 Success criteria </br> my own capabilities to use a raspberry pi and weekly updates on my progression on the projet
